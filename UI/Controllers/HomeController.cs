@@ -15,6 +15,7 @@ namespace UI.Controllers
 
             string str = "hello";
             bool t = false;
+            float f= 12.5f;
             return View();
         }
     }
