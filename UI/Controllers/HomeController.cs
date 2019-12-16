@@ -11,6 +11,7 @@ namespace UI.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            int i = 1;
             return View();
         }
     }
