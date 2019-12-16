@@ -12,6 +12,7 @@ namespace UI.Controllers
         public ActionResult Index()
         {
             int i = 1;
+            string str = "hello";
             return View();
         }
     }
