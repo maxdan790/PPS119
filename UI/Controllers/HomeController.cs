@@ -18,5 +18,10 @@ namespace UI.Controllers
             float f= 12.5f;
             return View();
         }
+
+        public ActionResult Aa()
+        {
+            return null;
+        }
     }
 }
